@@ -1,0 +1,1957 @@
+------------
+Nucleus Diagnostics
+------------
+This file contains information about Nucleus and the environment it runs in.
+------------
+Environment
+------------
+Minecraft Version: Minecraft 1.12.2
+Sponge Version: SpongeForge 1.12.2-2655-7.1.0-BETA-3105
+Sponge API Version: SpongeAPI 7.1.0-SNAPSHOT-43d8496
+Nucleus Version: 1.3.7-S7.0 (Git: fe78e96f)
+------------
+Plugins
+------------
+Minecraft (minecraft) version 1.12.2
+Minecraft Coder Pack (mcp) version 9.42
+Forge Mod Loader (FML) version 8.0.99.99
+Minecraft Forge (forge) version 14.23.3.2655
+SpongeAPI (spongeapi) version 7.1.0-SNAPSHOT-43d8496
+SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+CatClearLag (catclearlag) version 0.8.3
+DailyRewards (dailyrewards) version unknown
+EconomyLite (economylite) version 2.13.0
+GriefPrevention (griefprevention) version 4.3.0
+FlexibleLogin (flexiblelogin) version 0.16.8
+Holograms (holograms) version 3.1
+KaroglanSignEditor (karoglansigneditor) version 2.7
+LangSwitch (langswitch) version 1.1.2
+LuckPerms (luckperms) version 4.0.143
+MMCReboot (mmcreboot) version 2.2.0
+Nucleus (nucleus) version 1.3.7-S7.0
+PixelAutoMessages (pixelautomessages) version 1.0.3
+ProjectCore (pjc) version 0.2.2
+ProjectWorlds (pjw) version 0.12.2
+ServerListPlus (serverlistplus) version 3.4.7
+StackBan for SpongeAPI 7.x (stackban) version 0.3.0
+VillagerShops (vshop) version 1.8.1
+PlaceholderAPI (placeholderapi) version 4.4
+VirtualChest (virtualchest) version 1.0.0-alpha
+Applied Energistics 2 (appliedenergistics2) version rv5-stable-11
+BuildCraft Lib (buildcraftlib) version 7.99.16
+BuildCraft (buildcraftcore) version 7.99.16
+BC Builders (buildcraftbuilders) version 7.99.16
+BC Energy (buildcraftenergy) version 7.99.16
+BC Factory (buildcraftfactory) version 7.99.16
+BC Robotics (buildcraftrobotics) version 7.99.16
+BC Transport (buildcrafttransport) version 7.99.16
+BC Silicon (buildcraftsilicon) version 7.99.16
+ChinjufuMod (chinjufumod) version 3.1.4.1
+CodeChicken Lib (codechickenlib) version 3.1.8.341
+Redstone Flux (redstoneflux) version 2.0.2
+CoFH Core (cofhcore) version 4.5.2
+CoFH World (cofhworld) version 1.2.0
+CustomNPCs (customnpcs) version 1.12
+EasyScoreboards (de_yottaflops_easyscoreboard) version 2.3
+EnderCore (endercore) version 1.12.2-0.5.30
+Just Enough Items (jei) version 4.9.2.196
+Thermal Foundation (thermalfoundation) version 2.5.0
+Thermal Expansion (thermalexpansion) version 5.5.0
+Ender IO (enderio) version 5.0.26
+Ender IO Integration with Tinkers' Construct (enderiointegrationtic) version 5.0.26
+Ender IO Base (enderiobase) version 5.0.26
+Ender IO Conduits (enderioconduits) version 5.0.26
+Ender IO Applied Energistics Conduits (enderioconduitsappliedenergistics) version 5.0.26
+Ender IO Open Computers Conduits (enderioconduitsopencomputers) version 5.0.26
+Ender IO Refined Storage Conduits (enderioconduitsrefinedstorage) version 5.0.26
+IndustrialCraft 2 (ic2) version 2.8.83-ex112
+Forestry (forestry) version 5.8.0.295
+Ender IO Integration with Forestry (enderiointegrationforestry) version 5.0.26
+Mantle (mantle) version 1.12-1.3.2.24
+Tinkers' Construct (tconstruct) version 1.12.2-2.10.1.84
+Ender IO Integration with Tinkers' Construct (enderiointegrationticlate) version 5.0.26
+Ender IO Machines (enderiomachines) version 5.0.26
+Ender IO Powertools (enderiopowertools) version 5.0.26
+ShetiPhian-Core (shetiphiancore) version 3.5.2
+EnderTanks (endertanks) version 1.6.6
+Valkyrie Lib (valkyrielib) version 1.12.2-2.0.11a
+Environmental Materials (environmentalmaterials) version @EM_VERSION@
+Environmental Tech (environmentaltech) version 1.12.2-2.0.11a
+ET Lunar (etlunar) version 1.12.2-2.0.11a
+Extra Utilities 2 (extrautils2) version 1.0
+Quick Leaf Decay (quickleafdecay) version 1.2.4
+SlashBlade (flammpfeil.slashblade) version mc1.12-r13
+The Heartwork (heartwork) version 2.0.0
+Immersive Engineering (immersiveengineering) version 0.12-82
+Iron Chest (ironchest) version 1.12.2-7.0.40.824
+Iron Tank (irontanks) version 2.1.0-beta.4
+Just Enough Buttons (justenoughbuttons) version 1.12-1.2
+LagGoggles (laggoggles) version SPONGEFORGE-1.12.2-4.1
+Lottery (lottery) version 2.0.2
+MagicBees (magicbees) version 1.0
+McJtyLib (mcjtylib_ng) version 3.0.0
+Mekanism (mekanism) version 1.12.2-9.4.11.346
+MekanismTools (mekanismtools) version 9.4.11
+mob_grinding_utils (mob_grinding_utils) version 0.3.6
+New Honor (newhonor) version 1.7.0
+NuclearCraft (nuclearcraft) version 2.10p
+OMLib (omlib) version 3.0.0-143
+Open Modular Turrets (openmodularturrets) version 3.0.0-248
+PlusTiC (plustic) version 6.5.2.0
+RFTools (rftools) version 7.50
+RFTools Dimensions (rftoolsdim) version 5.60
+SimpleCore API (simplecore) version 1.6.0.6
+Simple Generators (simplegenerators) version 1.12.2-2.0.11a
+SimpleOres 2 (simpleores) version 1.11.1.9
+Thermal Cultivation (thermalcultivation) version 0.3.0
+Thermal Dynamics (thermaldynamics) version 2.5.1
+Thermal Innovation (thermalinnovation) version 0.3.0
+Technology Revolution Blade Extra (mrblade) version 1.0.0alpha
+Universal Modifiers (universalmodifiers) version 1.12.2-1.0.9a
+Vein Miner (veinminer) version 0.38.1
+Mod Support (veinminermodsupport) version 0.38.1
+Wearable Backpacks (wearablebackpacks) version 3.1.2
+WorldEdit (worldedit) version 6.1.8
+------------
+Registered Commands
+------------
+/, - WorldEdit (worldedit) version 6.1.8
+/.s - WorldEdit (worldedit) version 6.1.8
+// - WorldEdit (worldedit) version 6.1.8
+//calc - WorldEdit (worldedit) version 6.1.8
+//calculate - WorldEdit (worldedit) version 6.1.8
+//center - WorldEdit (worldedit) version 6.1.8
+//chunk - WorldEdit (worldedit) version 6.1.8
+//clearhistory - WorldEdit (worldedit) version 6.1.8
+//contract - WorldEdit (worldedit) version 6.1.8
+//copy - WorldEdit (worldedit) version 6.1.8
+//count - WorldEdit (worldedit) version 6.1.8
+//curve - WorldEdit (worldedit) version 6.1.8
+//cut - WorldEdit (worldedit) version 6.1.8
+//cyl - WorldEdit (worldedit) version 6.1.8
+//deform - WorldEdit (worldedit) version 6.1.8
+//desel - WorldEdit (worldedit) version 6.1.8
+//deselect - WorldEdit (worldedit) version 6.1.8
+//distr - WorldEdit (worldedit) version 6.1.8
+//drain - WorldEdit (worldedit) version 6.1.8
+//eval - WorldEdit (worldedit) version 6.1.8
+//evaluate - WorldEdit (worldedit) version 6.1.8
+//ex - WorldEdit (worldedit) version 6.1.8
+//expand - WorldEdit (worldedit) version 6.1.8
+//ext - WorldEdit (worldedit) version 6.1.8
+//extinguish - WorldEdit (worldedit) version 6.1.8
+//faces - WorldEdit (worldedit) version 6.1.8
+//fast - WorldEdit (worldedit) version 6.1.8
+//fill - WorldEdit (worldedit) version 6.1.8
+//fillr - WorldEdit (worldedit) version 6.1.8
+//fixlava - WorldEdit (worldedit) version 6.1.8
+//fixwater - WorldEdit (worldedit) version 6.1.8
+//flip - WorldEdit (worldedit) version 6.1.8
+//flora - WorldEdit (worldedit) version 6.1.8
+//forest - WorldEdit (worldedit) version 6.1.8
+//g - WorldEdit (worldedit) version 6.1.8
+//gb - WorldEdit (worldedit) version 6.1.8
+//gen - WorldEdit (worldedit) version 6.1.8
+//genbiome - WorldEdit (worldedit) version 6.1.8
+//generate - WorldEdit (worldedit) version 6.1.8
+//generatebiome - WorldEdit (worldedit) version 6.1.8
+//gmask - WorldEdit (worldedit) version 6.1.8
+//green - WorldEdit (worldedit) version 6.1.8
+//hcyl - WorldEdit (worldedit) version 6.1.8
+//help - WorldEdit (worldedit) version 6.1.8
+//hollow - WorldEdit (worldedit) version 6.1.8
+//hpos1 - WorldEdit (worldedit) version 6.1.8
+//hpos2 - WorldEdit (worldedit) version 6.1.8
+//hpyramid - WorldEdit (worldedit) version 6.1.8
+//hsphere - WorldEdit (worldedit) version 6.1.8
+//inset - WorldEdit (worldedit) version 6.1.8
+//l - WorldEdit (worldedit) version 6.1.8
+//limit - WorldEdit (worldedit) version 6.1.8
+//line - WorldEdit (worldedit) version 6.1.8
+//load - WorldEdit (worldedit) version 6.1.8
+//lrbuild - WorldEdit (worldedit) version 6.1.8
+//middle - WorldEdit (worldedit) version 6.1.8
+//move - WorldEdit (worldedit) version 6.1.8
+//naturalize - WorldEdit (worldedit) version 6.1.8
+//outline - WorldEdit (worldedit) version 6.1.8
+//outset - WorldEdit (worldedit) version 6.1.8
+//overlay - WorldEdit (worldedit) version 6.1.8
+//paste - WorldEdit (worldedit) version 6.1.8
+//pos1 - WorldEdit (worldedit) version 6.1.8
+//pos2 - WorldEdit (worldedit) version 6.1.8
+//pyramid - WorldEdit (worldedit) version 6.1.8
+//re - WorldEdit (worldedit) version 6.1.8
+//redo - WorldEdit (worldedit) version 6.1.8
+//regen - WorldEdit (worldedit) version 6.1.8
+//removeabove - WorldEdit (worldedit) version 6.1.8
+//removebelow - WorldEdit (worldedit) version 6.1.8
+//removenear - WorldEdit (worldedit) version 6.1.8
+//rep - WorldEdit (worldedit) version 6.1.8
+//replace - WorldEdit (worldedit) version 6.1.8
+//replacenear - WorldEdit (worldedit) version 6.1.8
+//restore - WorldEdit (worldedit) version 6.1.8
+//rotate - WorldEdit (worldedit) version 6.1.8
+//save - WorldEdit (worldedit) version 6.1.8
+//schem - WorldEdit (worldedit) version 6.1.8
+//schematic - WorldEdit (worldedit) version 6.1.8
+//search - WorldEdit (worldedit) version 6.1.8
+//searchitem - WorldEdit (worldedit) version 6.1.8
+//sel - WorldEdit (worldedit) version 6.1.8
+//set - WorldEdit (worldedit) version 6.1.8
+//setbiome - WorldEdit (worldedit) version 6.1.8
+//shift - WorldEdit (worldedit) version 6.1.8
+//size - WorldEdit (worldedit) version 6.1.8
+//smooth - WorldEdit (worldedit) version 6.1.8
+//snow - WorldEdit (worldedit) version 6.1.8
+//solve - WorldEdit (worldedit) version 6.1.8
+//sphere - WorldEdit (worldedit) version 6.1.8
+//stack - WorldEdit (worldedit) version 6.1.8
+//thaw - WorldEdit (worldedit) version 6.1.8
+//toggleplace - WorldEdit (worldedit) version 6.1.8
+//undo - WorldEdit (worldedit) version 6.1.8
+//walls - WorldEdit (worldedit) version 6.1.8
+//wand - WorldEdit (worldedit) version 6.1.8
+/; - WorldEdit (worldedit) version 6.1.8
+/? - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/a - Nucleus (nucleus) version 1.3.7-S7.0
+/abandonallclaims - GriefPrevention (griefprevention) version 4.3.0
+/abandonclaim - GriefPrevention (griefprevention) version 4.3.0
+/abandontopclaim - GriefPrevention (griefprevention) version 4.3.0
+/abandontoplevelclaim - GriefPrevention (griefprevention) version 4.3.0
+/ac - GriefPrevention (griefprevention) version 4.3.0
+/acb - GriefPrevention (griefprevention) version 4.3.0
+/accesstrust - GriefPrevention (griefprevention) version 4.3.0
+/action - Nucleus (nucleus) version 1.3.7-S7.0
+/addnote - Nucleus (nucleus) version 1.3.7-S7.0
+/addwarning - Nucleus (nucleus) version 1.3.7-S7.0
+/adjustbonusclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/adminclaims - GriefPrevention (griefprevention) version 4.3.0
+/advancement - Minecraft (minecraft) version 1.12.2
+/adventure - Nucleus (nucleus) version 1.3.7-S7.0
+/ae2 - Applied Energistics 2 (appliedenergistics2) version rv5-stable-11
+/afk - Nucleus (nucleus) version 1.3.7-S7.0
+/afkrefresh - Nucleus (nucleus) version 1.3.7-S7.0
+/anvil - Nucleus (nucleus) version 1.3.7-S7.0
+/asc - WorldEdit (worldedit) version 6.1.8
+/ascend - WorldEdit (worldedit) version 6.1.8
+/at - GriefPrevention (griefprevention) version 4.3.0
+/atc - GriefPrevention (griefprevention) version 4.3.0
+/away - Nucleus (nucleus) version 1.3.7-S7.0
+/back - Nucleus (nucleus) version 1.3.7-S7.0
+/bal - EconomyLite (economylite) version 2.13.0
+/balance - EconomyLite (economylite) version 2.13.0
+/baltop - EconomyLite (economylite) version 2.13.0
+/ban - Nucleus (nucleus) version 1.3.7-S7.0
+/ban-ip - Minecraft (minecraft) version 1.12.2
+/banlist - Minecraft (minecraft) version 1.12.2
+/basicclaims - GriefPrevention (griefprevention) version 4.3.0
+/bc - Nucleus (nucleus) version 1.3.7-S7.0
+/bcast - Nucleus (nucleus) version 1.3.7-S7.0
+/biomeinfo - WorldEdit (worldedit) version 6.1.8
+/biomelist - WorldEdit (worldedit) version 6.1.8
+/biomels - WorldEdit (worldedit) version 6.1.8
+/blockdata - Minecraft (minecraft) version 1.12.2
+/blockinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/blockzap - Nucleus (nucleus) version 1.3.7-S7.0
+/br - WorldEdit (worldedit) version 6.1.8
+/broadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/brush - WorldEdit (worldedit) version 6.1.8
+/buildcraft - BuildCraft Lib (buildcraftlib) version 7.99.16
+/burn - Nucleus (nucleus) version 1.3.7-S7.0
+/butcher - WorldEdit (worldedit) version 6.1.8
+/buy - Nucleus (nucleus) version 1.3.7-S7.0
+/buyclaim - GriefPrevention (griefprevention) version 4.3.0
+/buyclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/c - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/call - Nucleus (nucleus) version 1.3.7-S7.0
+/callback - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/carrothelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrothide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshophide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshopreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshopserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshopwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/cb - GriefPrevention (griefprevention) version 4.3.0
+/ceil - WorldEdit (worldedit) version 6.1.8
+/cf - GriefPrevention (griefprevention) version 4.3.0
+/cfd - GriefPrevention (griefprevention) version 4.3.0
+/cfg - GriefPrevention (griefprevention) version 4.3.0
+/cfp - GriefPrevention (griefprevention) version 4.3.0
+/cfr - GriefPrevention (griefprevention) version 4.3.0
+/ch - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/changepassword - FlexibleLogin (flexiblelogin) version 0.16.8
+/changepw - FlexibleLogin (flexiblelogin) version 0.16.8
+/checkban - Nucleus (nucleus) version 1.3.7-S7.0
+/checkjail - Nucleus (nucleus) version 1.3.7-S7.0
+/checkjailed - Nucleus (nucleus) version 1.3.7-S7.0
+/checkmute - Nucleus (nucleus) version 1.3.7-S7.0
+/checkmuted - Nucleus (nucleus) version 1.3.7-S7.0
+/checknotes - Nucleus (nucleus) version 1.3.7-S7.0
+/checkwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/checkwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/chide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/chunkinfo - WorldEdit (worldedit) version 6.1.8
+/ci - Nucleus (nucleus) version 1.3.7-S7.0
+/claim - GriefPrevention (griefprevention) version 4.3.0
+/claimbank - GriefPrevention (griefprevention) version 4.3.0
+/claimbook - GriefPrevention (griefprevention) version 4.3.0
+/claimbuy - GriefPrevention (griefprevention) version 4.3.0
+/claimclear - GriefPrevention (griefprevention) version 4.3.0
+/claimfarewell - GriefPrevention (griefprevention) version 4.3.0
+/claimflag - GriefPrevention (griefprevention) version 4.3.0
+/claimflagdebug - GriefPrevention (griefprevention) version 4.3.0
+/claimflaggroup - GriefPrevention (griefprevention) version 4.3.0
+/claimflagplayer - GriefPrevention (griefprevention) version 4.3.0
+/claimflagreset - GriefPrevention (griefprevention) version 4.3.0
+/claimgreeting - GriefPrevention (griefprevention) version 4.3.0
+/claiminfo - GriefPrevention (griefprevention) version 4.3.0
+/claimlist - GriefPrevention (griefprevention) version 4.3.0
+/claimname - GriefPrevention (griefprevention) version 4.3.0
+/claimoption - GriefPrevention (griefprevention) version 4.3.0
+/claimoptiongroup - GriefPrevention (griefprevention) version 4.3.0
+/claimoptionplayer - GriefPrevention (griefprevention) version 4.3.0
+/claimpermissiongroup - GriefPrevention (griefprevention) version 4.3.0
+/claimpermissionplayer - GriefPrevention (griefprevention) version 4.3.0
+/claimsell - GriefPrevention (griefprevention) version 4.3.0
+/claimsellblocks - GriefPrevention (griefprevention) version 4.3.0
+/claimsetspawn - GriefPrevention (griefprevention) version 4.3.0
+/claimsinfo - GriefPrevention (griefprevention) version 4.3.0
+/claimslist - GriefPrevention (griefprevention) version 4.3.0
+/claimspawn - GriefPrevention (griefprevention) version 4.3.0
+/claimsubdivide - GriefPrevention (griefprevention) version 4.3.0
+/claimtransfer - GriefPrevention (griefprevention) version 4.3.0
+/clear - Nucleus (nucleus) version 1.3.7-S7.0
+/clearclipboard - WorldEdit (worldedit) version 6.1.8
+/clearhistory - WorldEdit (worldedit) version 6.1.8
+/clearinv - Nucleus (nucleus) version 1.3.7-S7.0
+/clearinvent - Nucleus (nucleus) version 1.3.7-S7.0
+/clearinventory - Nucleus (nucleus) version 1.3.7-S7.0
+/clearnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/clearwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/clone - Minecraft (minecraft) version 1.12.2
+/clwhitelist - CatClearLag (catclearlag) version 0.8.3
+/co - GriefPrevention (griefprevention) version 4.3.0
+/cofh - CoFH Core (cofhcore) version 4.5.2
+/cofhworld - CoFH World (cofhworld) version 1.2.0
+/cog - GriefPrevention (griefprevention) version 4.3.0
+/commandspy - Nucleus (nucleus) version 1.3.7-S7.0
+/containertrust - GriefPrevention (griefprevention) version 4.3.0
+/coords - Nucleus (nucleus) version 1.3.7-S7.0
+/cop - GriefPrevention (griefprevention) version 4.3.0
+/cpg - GriefPrevention (griefprevention) version 4.3.0
+/cpp - GriefPrevention (griefprevention) version 4.3.0
+/cr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/craft - Nucleus (nucleus) version 1.3.7-S7.0
+/creative - Nucleus (nucleus) version 1.3.7-S7.0
+/creport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/cs - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/cshophelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/cshopwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/csr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/csreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/ct - GriefPrevention (griefprevention) version 4.3.0
+/cuboid - GriefPrevention (griefprevention) version 4.3.0
+/cuboidclaims - GriefPrevention (griefprevention) version 4.3.0
+/cur - EconomyLite (economylite) version 2.13.0
+/currency - EconomyLite (economylite) version 2.13.0
+/cwl - CatClearLag (catclearlag) version 0.8.3
+/cycler - WorldEdit (worldedit) version 6.1.8
+/dac - GriefPrevention (griefprevention) version 4.3.0
+/daily - DailyRewards (dailyrewards) version unknown
+/dailyrewards - DailyRewards (dailyrewards) version unknown
+/dc - GriefPrevention (griefprevention) version 4.3.0
+/debug - Minecraft (minecraft) version 1.12.2
+/defaultgamemode - Minecraft (minecraft) version 1.12.2
+/delchunks - WorldEdit (worldedit) version 6.1.8
+/deletealladminclaims - GriefPrevention (griefprevention) version 4.3.0
+/deleteallclaims - GriefPrevention (griefprevention) version 4.3.0
+/deleteclaim - GriefPrevention (griefprevention) version 4.3.0
+/deletehome - Nucleus (nucleus) version 1.3.7-S7.0
+/deletehomeother - Nucleus (nucleus) version 1.3.7-S7.0
+/deletenick - Nucleus (nucleus) version 1.3.7-S7.0
+/deletenote - Nucleus (nucleus) version 1.3.7-S7.0
+/deletetopclaim - GriefPrevention (griefprevention) version 4.3.0
+/deletewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/delhome - Nucleus (nucleus) version 1.3.7-S7.0
+/delhomeother - Nucleus (nucleus) version 1.3.7-S7.0
+/delnick - Nucleus (nucleus) version 1.3.7-S7.0
+/delnickname - Nucleus (nucleus) version 1.3.7-S7.0
+/delnote - Nucleus (nucleus) version 1.3.7-S7.0
+/deltree - WorldEdit (worldedit) version 6.1.8
+/delwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/deop - Minecraft (minecraft) version 1.12.2
+/desc - WorldEdit (worldedit) version 6.1.8
+/descend - WorldEdit (worldedit) version 6.1.8
+/difficulty - Minecraft (minecraft) version 1.12.2
+/dr - DailyRewards (dailyrewards) version unknown
+/dtc - GriefPrevention (griefprevention) version 4.3.0
+/easyscoreboard - EasyScoreboards (de_yottaflops_easyscoreboard) version 2.3
+/eat - Nucleus (nucleus) version 1.3.7-S7.0
+/ec - Nucleus (nucleus) version 1.3.7-S7.0
+/echest - Nucleus (nucleus) version 1.3.7-S7.0
+/eco - EconomyLite (economylite) version 2.13.0
+/econ - EconomyLite (economylite) version 2.13.0
+/economy - EconomyLite (economylite) version 2.13.0
+/effect - Minecraft (minecraft) version 1.12.2
+/einfo - Nucleus (nucleus) version 1.3.7-S7.0
+/email - Nucleus (nucleus) version 1.3.7-S7.0
+/enchant - Nucleus (nucleus) version 1.3.7-S7.0
+/enchantingtable - Nucleus (nucleus) version 1.3.7-S7.0
+/enchanttable - Nucleus (nucleus) version 1.3.7-S7.0
+/enderchest - Nucleus (nucleus) version 1.3.7-S7.0
+/entitydata - Minecraft (minecraft) version 1.12.2
+/entityinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/esb - EasyScoreboards (de_yottaflops_easyscoreboard) version 2.3
+/etable - Nucleus (nucleus) version 1.3.7-S7.0
+/ex - WorldEdit (worldedit) version 6.1.8
+/execute - Minecraft (minecraft) version 1.12.2
+/exp - Nucleus (nucleus) version 1.3.7-S7.0
+/experience - Nucleus (nucleus) version 1.3.7-S7.0
+/ext - WorldEdit (worldedit) version 6.1.8
+/extinguish - WorldEdit (worldedit) version 6.1.8
+/farwand - WorldEdit (worldedit) version 6.1.8
+/feed - Nucleus (nucleus) version 1.3.7-S7.0
+/fill - Minecraft (minecraft) version 1.12.2
+/firstjoinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/firstkit - Nucleus (nucleus) version 1.3.7-S7.0
+/firstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/fixlava - WorldEdit (worldedit) version 6.1.8
+/fixwater - WorldEdit (worldedit) version 6.1.8
+/flexiblelogin - FlexibleLogin (flexiblelogin) version 0.16.8
+/flood - WorldEdit (worldedit) version 6.1.8
+/floodfill - WorldEdit (worldedit) version 6.1.8
+/fly - Nucleus (nucleus) version 1.3.7-S7.0
+/for - Forestry (forestry) version 5.8.0.295
+/forcegarbagecollection - CatClearLag (catclearlag) version 0.8.3
+/forcegc - CatClearLag (catclearlag) version 0.8.3
+/forestgen - WorldEdit (worldedit) version 6.1.8
+/forestry - Forestry (forestry) version 5.8.0.295
+/forge - Minecraft Forge (forge) version 14.23.3.2655
+/forgot - FlexibleLogin (flexiblelogin) version 0.16.8
+/forgotpassword - FlexibleLogin (flexiblelogin) version 0.16.8
+/freeze - Nucleus (nucleus) version 1.3.7-S7.0
+/freezeplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/function - Minecraft (minecraft) version 1.12.2
+/gamemode - Nucleus (nucleus) version 1.3.7-S7.0
+/gamerule - Minecraft (minecraft) version 1.12.2
+/gamerules - Nucleus (nucleus) version 1.3.7-S7.0
+/gc - Nucleus (nucleus) version 1.3.7-S7.0
+/getfromip - Nucleus (nucleus) version 1.3.7-S7.0
+/getloc - Nucleus (nucleus) version 1.3.7-S7.0
+/getlocation - Nucleus (nucleus) version 1.3.7-S7.0
+/getpos - Nucleus (nucleus) version 1.3.7-S7.0
+/give - Minecraft (minecraft) version 1.12.2
+/givepet - GriefPrevention (griefprevention) version 4.3.0
+/globalmute - Nucleus (nucleus) version 1.3.7-S7.0
+/gm - Nucleus (nucleus) version 1.3.7-S7.0
+/gma - Nucleus (nucleus) version 1.3.7-S7.0
+/gmask - WorldEdit (worldedit) version 6.1.8
+/gmc - Nucleus (nucleus) version 1.3.7-S7.0
+/gms - Nucleus (nucleus) version 1.3.7-S7.0
+/gmsp - Nucleus (nucleus) version 1.3.7-S7.0
+/gmt - Nucleus (nucleus) version 1.3.7-S7.0
+/god - Nucleus (nucleus) version 1.3.7-S7.0
+/gpdebug - GriefPrevention (griefprevention) version 4.3.0
+/gpreload - GriefPrevention (griefprevention) version 4.3.0
+/gpversion - GriefPrevention (griefprevention) version 4.3.0
+/green - WorldEdit (worldedit) version 6.1.8
+/hat - Nucleus (nucleus) version 1.3.7-S7.0
+/head - Nucleus (nucleus) version 1.3.7-S7.0
+/heal - Nucleus (nucleus) version 1.3.7-S7.0
+/help - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/helpme - ProjectCore (pjc) version 0.2.2
+/helpop - Nucleus (nucleus) version 1.3.7-S7.0
+/hideshopchat - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/hm - ProjectCore (pjc) version 0.2.2
+/holograms - Holograms (holograms) version 3.1
+/home - Nucleus (nucleus) version 1.3.7-S7.0
+/homeother - Nucleus (nucleus) version 1.3.7-S7.0
+/homes - Nucleus (nucleus) version 1.3.7-S7.0
+/homeset - Nucleus (nucleus) version 1.3.7-S7.0
+/honor - New Honor (newhonor) version 1.7.0
+/honour - New Honor (newhonor) version 1.7.0
+/ic - GriefPrevention (griefprevention) version 4.3.0
+/ic2 - IndustrialCraft 2 (ic2) version 2.8.83-ex112
+/ie - Immersive Engineering (immersiveengineering) version 0.12-82
+/ignite - Nucleus (nucleus) version 1.3.7-S7.0
+/ignore - Nucleus (nucleus) version 1.3.7-S7.0
+/ignoreclaims - GriefPrevention (griefprevention) version 4.3.0
+/ignoredlist - GriefPrevention (griefprevention) version 4.3.0
+/ignoredplayerlist - GriefPrevention (griefprevention) version 4.3.0
+/ignoreplayer - GriefPrevention (griefprevention) version 4.3.0
+/info - Nucleus (nucleus) version 1.3.7-S7.0
+/inherit - GriefPrevention (griefprevention) version 4.3.0
+/inheritpermissions - GriefPrevention (griefprevention) version 4.3.0
+/invsee - Nucleus (nucleus) version 1.3.7-S7.0
+/invuln - Nucleus (nucleus) version 1.3.7-S7.0
+/invulnerability - Nucleus (nucleus) version 1.3.7-S7.0
+/itembuy - Nucleus (nucleus) version 1.3.7-S7.0
+/itemdb - Nucleus (nucleus) version 1.3.7-S7.0
+/iteminfo - Nucleus (nucleus) version 1.3.7-S7.0
+/itemname - Nucleus (nucleus) version 1.3.7-S7.0
+/itemsell - Nucleus (nucleus) version 1.3.7-S7.0
+/itemsellall - Nucleus (nucleus) version 1.3.7-S7.0
+/j - WorldEdit (worldedit) version 6.1.8
+/jail - Nucleus (nucleus) version 1.3.7-S7.0
+/jails - Nucleus (nucleus) version 1.3.7-S7.0
+/jmp - Nucleus (nucleus) version 1.3.7-S7.0
+/joinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/jump - Nucleus (nucleus) version 1.3.7-S7.0
+/jumpto - WorldEdit (worldedit) version 6.1.8
+/karoglansigneditor - KaroglanSignEditor (karoglansigneditor) version 2.7
+/kc - Nucleus (nucleus) version 1.3.7-S7.0
+/kick - Nucleus (nucleus) version 1.3.7-S7.0
+/kickall - Nucleus (nucleus) version 1.3.7-S7.0
+/kill - Nucleus (nucleus) version 1.3.7-S7.0
+/killentity - Nucleus (nucleus) version 1.3.7-S7.0
+/killweather - Nucleus (nucleus) version 1.3.7-S7.0
+/kit - Nucleus (nucleus) version 1.3.7-S7.0
+/kits - Nucleus (nucleus) version 1.3.7-S7.0
+/kittycannon - Nucleus (nucleus) version 1.3.7-S7.0
+/kse - KaroglanSignEditor (karoglansigneditor) version 2.7
+/laggoggles - LagGoggles (laggoggles) version SPONGEFORGE-1.12.2-4.1
+/laggychunks - CatClearLag (catclearlag) version 0.8.3
+/language - LangSwitch (langswitch) version 1.1.2
+/lc - CatClearLag (catclearlag) version 0.8.3
+/lightning - Nucleus (nucleus) version 1.3.7-S7.0
+/list - Nucleus (nucleus) version 1.3.7-S7.0
+/listchunks - WorldEdit (worldedit) version 6.1.8
+/listhomes - Nucleus (nucleus) version 1.3.7-S7.0
+/listplayers - Nucleus (nucleus) version 1.3.7-S7.0
+/locate - Minecraft (minecraft) version 1.12.2
+/lockweather - Nucleus (nucleus) version 1.3.7-S7.0
+/log - FlexibleLogin (flexiblelogin) version 0.16.8
+/login - FlexibleLogin (flexiblelogin) version 0.16.8
+/logout - FlexibleLogin (flexiblelogin) version 0.16.8
+/lookup - Nucleus (nucleus) version 1.3.7-S7.0
+/lore - Nucleus (nucleus) version 1.3.7-S7.0
+/lot - Lottery (lottery) version 2.0.2
+/lottery - Lottery (lottery) version 2.0.2
+/lp - LuckPerms (luckperms) version 4.0.143
+/lrbuild - WorldEdit (worldedit) version 6.1.8
+/ls - Nucleus (nucleus) version 1.3.7-S7.0
+/luckperms - LuckPerms (luckperms) version 4.0.143
+/m - Nucleus (nucleus) version 1.3.7-S7.0
+/m-e - VirtualChest (virtualchest) version 1.0.0-alpha
+/m-e2 - VirtualChest (virtualchest) version 1.0.0-alpha
+/mail - Nucleus (nucleus) version 1.3.7-S7.0
+/managertrust - GriefPrevention (griefprevention) version 4.3.0
+/mask - WorldEdit (worldedit) version 6.1.8
+/mat - WorldEdit (worldedit) version 6.1.8
+/material - WorldEdit (worldedit) version 6.1.8
+/me - Nucleus (nucleus) version 1.3.7-S7.0
+/mek - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/mekanism - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/mend - Nucleus (nucleus) version 1.3.7-S7.0
+/menu-example - VirtualChest (virtualchest) version 1.0.0-alpha
+/menu-example2 - VirtualChest (virtualchest) version 1.0.0-alpha
+/message - Nucleus (nucleus) version 1.3.7-S7.0
+/messagetoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/migrate - EconomyLite (economylite) version 2.13.0
+/mk - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/mobspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/money - EconomyLite (economylite) version 2.13.0
+/more - Nucleus (nucleus) version 1.3.7-S7.0
+/motd - Nucleus (nucleus) version 1.3.7-S7.0
+/msg - Nucleus (nucleus) version 1.3.7-S7.0
+/msgtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/mt - GriefPrevention (griefprevention) version 4.3.0
+/mtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/mute - Nucleus (nucleus) version 1.3.7-S7.0
+/nafk - Nucleus (nucleus) version 1.3.7-S7.0
+/nafkrefresh - Nucleus (nucleus) version 1.3.7-S7.0
+/nameban - Nucleus (nucleus) version 1.3.7-S7.0
+/namepardon - Nucleus (nucleus) version 1.3.7-S7.0
+/nameunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nanvil - Nucleus (nucleus) version 1.3.7-S7.0
+/nback - Nucleus (nucleus) version 1.3.7-S7.0
+/nban - Nucleus (nucleus) version 1.3.7-S7.0
+/nblockinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nblockzap - Nucleus (nucleus) version 1.3.7-S7.0
+/nbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckban - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckjail - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckjailed - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckmute - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckmuted - Nucleus (nucleus) version 1.3.7-S7.0
+/nchecknotes - Nucleus (nucleus) version 1.3.7-S7.0
+/ncheckwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nclear - Nucleus (nucleus) version 1.3.7-S7.0
+/nclearnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nclearwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/ncommandspy - Nucleus (nucleus) version 1.3.7-S7.0
+/ndelnick - Nucleus (nucleus) version 1.3.7-S7.0
+/nenchant - Nucleus (nucleus) version 1.3.7-S7.0
+/nenchantingtable - Nucleus (nucleus) version 1.3.7-S7.0
+/nenderchest - Nucleus (nucleus) version 1.3.7-S7.0
+/nentityinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nexp - Nucleus (nucleus) version 1.3.7-S7.0
+/nfeed - Nucleus (nucleus) version 1.3.7-S7.0
+/nfirstjoinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nfly - Nucleus (nucleus) version 1.3.7-S7.0
+/nfreezeplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/ngamemode - Nucleus (nucleus) version 1.3.7-S7.0
+/ngetfromip - Nucleus (nucleus) version 1.3.7-S7.0
+/ngetpos - Nucleus (nucleus) version 1.3.7-S7.0
+/nglobalmute - Nucleus (nucleus) version 1.3.7-S7.0
+/ngma - Nucleus (nucleus) version 1.3.7-S7.0
+/ngmc - Nucleus (nucleus) version 1.3.7-S7.0
+/ngms - Nucleus (nucleus) version 1.3.7-S7.0
+/ngmsp - Nucleus (nucleus) version 1.3.7-S7.0
+/ngmt - Nucleus (nucleus) version 1.3.7-S7.0
+/ngod - Nucleus (nucleus) version 1.3.7-S7.0
+/nhat - Nucleus (nucleus) version 1.3.7-S7.0
+/nheal - Nucleus (nucleus) version 1.3.7-S7.0
+/nhelpop - Nucleus (nucleus) version 1.3.7-S7.0
+/nhome - Nucleus (nucleus) version 1.3.7-S7.0
+/nick - Nucleus (nucleus) version 1.3.7-S7.0
+/nickname - Nucleus (nucleus) version 1.3.7-S7.0
+/nignite - Nucleus (nucleus) version 1.3.7-S7.0
+/nignore - Nucleus (nucleus) version 1.3.7-S7.0
+/ninfo - Nucleus (nucleus) version 1.3.7-S7.0
+/ninvsee - Nucleus (nucleus) version 1.3.7-S7.0
+/nitembuy - Nucleus (nucleus) version 1.3.7-S7.0
+/niteminfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nitemname - Nucleus (nucleus) version 1.3.7-S7.0
+/nitemsell - Nucleus (nucleus) version 1.3.7-S7.0
+/nitemsellall - Nucleus (nucleus) version 1.3.7-S7.0
+/njail - Nucleus (nucleus) version 1.3.7-S7.0
+/njails - Nucleus (nucleus) version 1.3.7-S7.0
+/njump - Nucleus (nucleus) version 1.3.7-S7.0
+/nkick - Nucleus (nucleus) version 1.3.7-S7.0
+/nkickall - Nucleus (nucleus) version 1.3.7-S7.0
+/nkill - Nucleus (nucleus) version 1.3.7-S7.0
+/nkillentity - Nucleus (nucleus) version 1.3.7-S7.0
+/nkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nkittycannon - Nucleus (nucleus) version 1.3.7-S7.0
+/nlightning - Nucleus (nucleus) version 1.3.7-S7.0
+/nlist - Nucleus (nucleus) version 1.3.7-S7.0
+/nlockweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nlore - Nucleus (nucleus) version 1.3.7-S7.0
+/nmail - Nucleus (nucleus) version 1.3.7-S7.0
+/nme - Nucleus (nucleus) version 1.3.7-S7.0
+/nmessage - Nucleus (nucleus) version 1.3.7-S7.0
+/nmore - Nucleus (nucleus) version 1.3.7-S7.0
+/nmotd - Nucleus (nucleus) version 1.3.7-S7.0
+/nmsgtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nnameban - Nucleus (nucleus) version 1.3.7-S7.0
+/nnameunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nnick - Nucleus (nucleus) version 1.3.7-S7.0
+/nnote - Nucleus (nucleus) version 1.3.7-S7.0
+/none - WorldEdit (worldedit) version 6.1.8
+/noppes - CustomNPCs (customnpcs) version 1.12
+/note - Nucleus (nucleus) version 1.3.7-S7.0
+/notes - Nucleus (nucleus) version 1.3.7-S7.0
+/nping - Nucleus (nucleus) version 1.3.7-S7.0
+/nplainbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/npowertool - Nucleus (nucleus) version 1.3.7-S7.0
+/nrealname - Nucleus (nucleus) version 1.3.7-S7.0
+/nremovenote - Nucleus (nucleus) version 1.3.7-S7.0
+/nremovewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/nrepair - Nucleus (nucleus) version 1.3.7-S7.0
+/nreply - Nucleus (nucleus) version 1.3.7-S7.0
+/nrocket - Nucleus (nucleus) version 1.3.7-S7.0
+/nrtp - Nucleus (nucleus) version 1.3.7-S7.0
+/nrules - Nucleus (nucleus) version 1.3.7-S7.0
+/nseen - Nucleus (nucleus) version 1.3.7-S7.0
+/nserverlist - Nucleus (nucleus) version 1.3.7-S7.0
+/nserverstat - Nucleus (nucleus) version 1.3.7-S7.0
+/nservertime - Nucleus (nucleus) version 1.3.7-S7.0
+/nsetfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nsetspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nsetworth - Nucleus (nucleus) version 1.3.7-S7.0
+/nshowitemattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/nskull - Nucleus (nucleus) version 1.3.7-S7.0
+/nsocialspy - Nucleus (nucleus) version 1.3.7-S7.0
+/nspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nspawnmob - Nucleus (nucleus) version 1.3.7-S7.0
+/nspeed - Nucleus (nucleus) version 1.3.7-S7.0
+/nstaffchat - Nucleus (nucleus) version 1.3.7-S7.0
+/nstop - Nucleus (nucleus) version 1.3.7-S7.0
+/nsudo - Nucleus (nucleus) version 1.3.7-S7.0
+/nsuicide - Nucleus (nucleus) version 1.3.7-S7.0
+/nteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/nteleportnative - Nucleus (nucleus) version 1.3.7-S7.0
+/ntellplain - Nucleus (nucleus) version 1.3.7-S7.0
+/ntempban - Nucleus (nucleus) version 1.3.7-S7.0
+/nthru - Nucleus (nucleus) version 1.3.7-S7.0
+/ntime - Nucleus (nucleus) version 1.3.7-S7.0
+/ntop - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpa - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpaall - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpahere - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpall - Nucleus (nucleus) version 1.3.7-S7.0
+/ntpdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/ntphere - Nucleus (nucleus) version 1.3.7-S7.0
+/ntppos - Nucleus (nucleus) version 1.3.7-S7.0
+/ntptoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/ntrash - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleusworld - Nucleus (nucleus) version 1.3.7-S7.0
+/nunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nunstuck - Nucleus (nucleus) version 1.3.7-S7.0
+/nvanish - Nucleus (nucleus) version 1.3.7-S7.0
+/nvoice - Nucleus (nucleus) version 1.3.7-S7.0
+/nwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/nwarp - Nucleus (nucleus) version 1.3.7-S7.0
+/nweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nworkbench - Nucleus (nucleus) version 1.3.7-S7.0
+/nworld - Nucleus (nucleus) version 1.3.7-S7.0
+/nworth - Nucleus (nucleus) version 1.3.7-S7.0
+/omchangeowner - OMLib (omlib) version 3.0.0-143
+/omdebug - OMLib (omlib) version 3.0.0-143
+/omshareowner - OMLib (omlib) version 3.0.0-143
+/op - Minecraft (minecraft) version 1.12.2
+/page - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/pagination - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/pam - PixelAutoMessages (pixelautomessages) version 1.0.3
+/papi - PlaceholderAPI (placeholderapi) version 4.4
+/pardon - Minecraft (minecraft) version 1.12.2
+/pardon-ip - Minecraft (minecraft) version 1.12.2
+/particle - Minecraft (minecraft) version 1.12.2
+/pay - EconomyLite (economylite) version 2.13.0
+/payv - EconomyLite (economylite) version 2.13.0
+/payvirtual - EconomyLite (economylite) version 2.13.0
+/pbc - Nucleus (nucleus) version 1.3.7-S7.0
+/pbcast - Nucleus (nucleus) version 1.3.7-S7.0
+/perm - LuckPerms (luckperms) version 4.0.143
+/permission - LuckPerms (luckperms) version 4.0.143
+/permissions - LuckPerms (luckperms) version 4.0.143
+/permissiontrust - GriefPrevention (griefprevention) version 4.3.0
+/perms - LuckPerms (luckperms) version 4.0.143
+/pickaxe - WorldEdit (worldedit) version 6.1.8
+/ping - Nucleus (nucleus) version 1.3.7-S7.0
+/pjc - ProjectCore (pjc) version 0.2.2
+/placeholderapi - PlaceholderAPI (placeholderapi) version 4.4
+/plainbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/plaintell - Nucleus (nucleus) version 1.3.7-S7.0
+/playerinfo - GriefPrevention (griefprevention) version 4.3.0
+/playsound - Minecraft (minecraft) version 1.12.2
+/position - Nucleus (nucleus) version 1.3.7-S7.0
+/powertool - Nucleus (nucleus) version 1.3.7-S7.0
+/pt - Nucleus (nucleus) version 1.3.7-S7.0
+/ptell - Nucleus (nucleus) version 1.3.7-S7.0
+/pumpkins - WorldEdit (worldedit) version 6.1.8
+/r - Nucleus (nucleus) version 1.3.7-S7.0
+/randomteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/range - WorldEdit (worldedit) version 6.1.8
+/re - CatClearLag (catclearlag) version 0.8.3
+/realname - Nucleus (nucleus) version 1.3.7-S7.0
+/realtime - Nucleus (nucleus) version 1.3.7-S7.0
+/reboot - MMCReboot (mmcreboot) version 2.2.0
+/recipe - Minecraft (minecraft) version 1.12.2
+/redo - WorldEdit (worldedit) version 6.1.8
+/reg - FlexibleLogin (flexiblelogin) version 0.16.8
+/register - FlexibleLogin (flexiblelogin) version 0.16.8
+/reload - Minecraft (minecraft) version 1.12.2
+/reloadserverconfigs - EnderCore (endercore) version 1.12.2-0.5.30
+/rem - WorldEdit (worldedit) version 6.1.8
+/rement - WorldEdit (worldedit) version 6.1.8
+/remove - WorldEdit (worldedit) version 6.1.8
+/removeabove - WorldEdit (worldedit) version 6.1.8
+/removeallnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/removeallwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/removebelow - WorldEdit (worldedit) version 6.1.8
+/removenear - WorldEdit (worldedit) version 6.1.8
+/removenote - Nucleus (nucleus) version 1.3.7-S7.0
+/removewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/repair - Nucleus (nucleus) version 1.3.7-S7.0
+/repl - WorldEdit (worldedit) version 6.1.8
+/replaceitem - Minecraft (minecraft) version 1.12.2
+/replacenear - WorldEdit (worldedit) version 6.1.8
+/reply - Nucleus (nucleus) version 1.3.7-S7.0
+/restart - MMCReboot (mmcreboot) version 2.2.0
+/restore - WorldEdit (worldedit) version 6.1.8
+/restorenature - GriefPrevention (griefprevention) version 4.3.0
+/restorenatureaggressive - GriefPrevention (griefprevention) version 4.3.0
+/restorenaturefill - GriefPrevention (griefprevention) version 4.3.0
+/return - Nucleus (nucleus) version 1.3.7-S7.0
+/rftcfg - RFTools (rftools) version 7.50
+/rftdb - RFTools (rftools) version 7.50
+/rftdim - RFTools Dimensions (rftoolsdim) version 5.60
+/rftshape - RFTools (rftools) version 7.50
+/rfttp - RFTools (rftools) version 7.50
+/rn - GriefPrevention (griefprevention) version 4.3.0
+/rna - GriefPrevention (griefprevention) version 4.3.0
+/rnf - GriefPrevention (griefprevention) version 4.3.0
+/rocket - Nucleus (nucleus) version 1.3.7-S7.0
+/rteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/rtp - Nucleus (nucleus) version 1.3.7-S7.0
+/rules - Nucleus (nucleus) version 1.3.7-S7.0
+/s - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/s++ - ServerListPlus (serverlistplus) version 3.4.7
+/save-all - Minecraft (minecraft) version 1.12.2
+/save-off - Minecraft (minecraft) version 1.12.2
+/save-on - Minecraft (minecraft) version 1.12.2
+/say - Minecraft (minecraft) version 1.12.2
+/sb - StackBan for SpongeAPI 7.x (stackban) version 0.3.0
+/sban - StackBan for SpongeAPI 7.x (stackban) version 0.3.0
+/sc - Nucleus (nucleus) version 1.3.7-S7.0
+/scb - GriefPrevention (griefprevention) version 4.3.0
+/schem - WorldEdit (worldedit) version 6.1.8
+/schematic - WorldEdit (worldedit) version 6.1.8
+/scoreboard - Minecraft (minecraft) version 1.12.2
+/scoreboardinfo - EnderCore (endercore) version 1.12.2-0.5.30
+/se - KaroglanSignEditor (karoglansigneditor) version 2.7
+/searchitem - WorldEdit (worldedit) version 6.1.8
+/seed - Minecraft (minecraft) version 1.12.2
+/seen - Nucleus (nucleus) version 1.3.7-S7.0
+/seenplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/sell - Nucleus (nucleus) version 1.3.7-S7.0
+/sellall - Nucleus (nucleus) version 1.3.7-S7.0
+/sellclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/separate - GriefPrevention (griefprevention) version 4.3.0
+/serverlist - ServerListPlus (serverlistplus) version 3.4.7
+/serverlist+ - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus - ServerListPlus (serverlistplus) version 3.4.7
+/serverping - ServerListPlus (serverlistplus) version 3.4.7
+/serverping+ - ServerListPlus (serverlistplus) version 3.4.7
+/serverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/serverstat - Nucleus (nucleus) version 1.3.7-S7.0
+/servertime - Nucleus (nucleus) version 1.3.7-S7.0
+/setaccruedclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/setblock - Minecraft (minecraft) version 1.12.2
+/setemail - FlexibleLogin (flexiblelogin) version 0.16.8
+/setfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/sethome - Nucleus (nucleus) version 1.3.7-S7.0
+/setidletimeout - Minecraft (minecraft) version 1.12.2
+/setitemworth - Nucleus (nucleus) version 1.3.7-S7.0
+/setspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/settime - Nucleus (nucleus) version 1.3.7-S7.0
+/setwarp - Nucleus (nucleus) version 1.3.7-S7.0
+/setworldspawn - Minecraft (minecraft) version 1.12.2
+/setworth - Nucleus (nucleus) version 1.3.7-S7.0
+/sh - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shock - Nucleus (nucleus) version 1.3.7-S7.0
+/shop - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shophelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shophide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shopreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/shopserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/showattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/showitemattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/sign - KaroglanSignEditor (karoglansigneditor) version 2.7
+/signeditor - KaroglanSignEditor (karoglansigneditor) version 2.7
+/size - WorldEdit (worldedit) version 6.1.8
+/skull - Nucleus (nucleus) version 1.3.7-S7.0
+/sl - Nucleus (nucleus) version 1.3.7-S7.0
+/sl+ - ServerListPlus (serverlistplus) version 3.4.7
+/slp - ServerListPlus (serverlistplus) version 3.4.7
+/slus - ServerListPlus (serverlistplus) version 3.4.7
+/smite - Nucleus (nucleus) version 1.3.7-S7.0
+/snap - WorldEdit (worldedit) version 6.1.8
+/snapshot - WorldEdit (worldedit) version 6.1.8
+/snow - WorldEdit (worldedit) version 6.1.8
+/socialspy - Nucleus (nucleus) version 1.3.7-S7.0
+/softmute - GriefPrevention (griefprevention) version 4.3.0
+/sp - WorldEdit (worldedit) version 6.1.8
+/spawn - Nucleus (nucleus) version 1.3.7-S7.0
+/spawnentity - Nucleus (nucleus) version 1.3.7-S7.0
+/spawnmob - Nucleus (nucleus) version 1.3.7-S7.0
+/spawnpoint - Minecraft (minecraft) version 1.12.2
+/speed - Nucleus (nucleus) version 1.3.7-S7.0
+/sponge - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/spp - ServerListPlus (serverlistplus) version 3.4.7
+/spreadplayers - Minecraft (minecraft) version 1.12.2
+/sr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/sreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/ssr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/ssreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/stack - Nucleus (nucleus) version 1.3.7-S7.0
+/staffchat - Nucleus (nucleus) version 1.3.7-S7.0
+/starterkit - Nucleus (nucleus) version 1.3.7-S7.0
+/stats - Minecraft (minecraft) version 1.12.2
+/stop - Nucleus (nucleus) version 1.3.7-S7.0
+/stopsound - Minecraft (minecraft) version 1.12.2
+/strike - Nucleus (nucleus) version 1.3.7-S7.0
+/subdivideclaims - GriefPrevention (griefprevention) version 4.3.0
+/sudo - Nucleus (nucleus) version 1.3.7-S7.0
+/suicide - Nucleus (nucleus) version 1.3.7-S7.0
+/summon - Minecraft (minecraft) version 1.12.2
+/superpickaxe - WorldEdit (worldedit) version 6.1.8
+/survival - Nucleus (nucleus) version 1.3.7-S7.0
+/swiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/t - Nucleus (nucleus) version 1.3.7-S7.0
+/ta - GriefPrevention (griefprevention) version 4.3.0
+/tb - GriefPrevention (griefprevention) version 4.3.0
+/tc - GriefPrevention (griefprevention) version 4.3.0
+/teleport - Nucleus (nucleus) version 1.3.7-S7.0
+/teleportaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/teleportask - Nucleus (nucleus) version 1.3.7-S7.0
+/teleportaskhere - Nucleus (nucleus) version 1.3.7-S7.0
+/teleportdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/teleportnative - Nucleus (nucleus) version 1.3.7-S7.0
+/tell - Nucleus (nucleus) version 1.3.7-S7.0
+/tellplain - Nucleus (nucleus) version 1.3.7-S7.0
+/tellraw - Minecraft (minecraft) version 1.12.2
+/tempban - Nucleus (nucleus) version 1.3.7-S7.0
+/testfor - Minecraft (minecraft) version 1.12.2
+/testforblock - Minecraft (minecraft) version 1.12.2
+/testforblocks - Minecraft (minecraft) version 1.12.2
+/thaw - WorldEdit (worldedit) version 6.1.8
+/thor - Nucleus (nucleus) version 1.3.7-S7.0
+/through - Nucleus (nucleus) version 1.3.7-S7.0
+/thru - Nucleus (nucleus) version 1.3.7-S7.0
+/time - Nucleus (nucleus) version 1.3.7-S7.0
+/timeset - Nucleus (nucleus) version 1.3.7-S7.0
+/title - Minecraft (minecraft) version 1.12.2
+/toggledownfall - Minecraft (minecraft) version 1.12.2
+/toggleeditwand - WorldEdit (worldedit) version 6.1.8
+/togglejail - Nucleus (nucleus) version 1.3.7-S7.0
+/toggleplace - WorldEdit (worldedit) version 6.1.8
+/tool - WorldEdit (worldedit) version 6.1.8
+/top - Nucleus (nucleus) version 1.3.7-S7.0
+/tosurface - Nucleus (nucleus) version 1.3.7-S7.0
+/totop - Nucleus (nucleus) version 1.3.7-S7.0
+/townbank - GriefPrevention (griefprevention) version 4.3.0
+/townchat - GriefPrevention (griefprevention) version 4.3.0
+/townclaims - GriefPrevention (griefprevention) version 4.3.0
+/towninfo - GriefPrevention (griefprevention) version 4.3.0
+/townsinfo - GriefPrevention (griefprevention) version 4.3.0
+/towntag - GriefPrevention (griefprevention) version 4.3.0
+/tp - Nucleus (nucleus) version 1.3.7-S7.0
+/tpa - Nucleus (nucleus) version 1.3.7-S7.0
+/tpaall - Nucleus (nucleus) version 1.3.7-S7.0
+/tpaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/tpahere - Nucleus (nucleus) version 1.3.7-S7.0
+/tpall - Nucleus (nucleus) version 1.3.7-S7.0
+/tpallhere - Nucleus (nucleus) version 1.3.7-S7.0
+/tpask - Nucleus (nucleus) version 1.3.7-S7.0
+/tpaskall - Nucleus (nucleus) version 1.3.7-S7.0
+/tpaskhere - Nucleus (nucleus) version 1.3.7-S7.0
+/tpdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/tph - Nucleus (nucleus) version 1.3.7-S7.0
+/tphere - Nucleus (nucleus) version 1.3.7-S7.0
+/tpn - Nucleus (nucleus) version 1.3.7-S7.0
+/tpnative - Nucleus (nucleus) version 1.3.7-S7.0
+/tpno - Nucleus (nucleus) version 1.3.7-S7.0
+/tppos - Nucleus (nucleus) version 1.3.7-S7.0
+/tptoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/tpyes - Nucleus (nucleus) version 1.3.7-S7.0
+/transferclaim - GriefPrevention (griefprevention) version 4.3.0
+/trash - Nucleus (nucleus) version 1.3.7-S7.0
+/tree - WorldEdit (worldedit) version 6.1.8
+/trigger - Minecraft (minecraft) version 1.12.2
+/trust - GriefPrevention (griefprevention) version 4.3.0
+/trustall - GriefPrevention (griefprevention) version 4.3.0
+/trustlist - GriefPrevention (griefprevention) version 4.3.0
+/tt - GriefPrevention (griefprevention) version 4.3.0
+/uc - CatClearLag (catclearlag) version 0.8.3
+/unban - Nucleus (nucleus) version 1.3.7-S7.0
+/undo - WorldEdit (worldedit) version 6.1.8
+/unignore - GriefPrevention (griefprevention) version 4.3.0
+/unignoreplayer - GriefPrevention (griefprevention) version 4.3.0
+/unjail - Nucleus (nucleus) version 1.3.7-S7.0
+/unloadchunks - CatClearLag (catclearlag) version 0.8.3
+/unlockdrops - GriefPrevention (griefprevention) version 4.3.0
+/unmute - Nucleus (nucleus) version 1.3.7-S7.0
+/unseparate - GriefPrevention (griefprevention) version 4.3.0
+/unstuck - Nucleus (nucleus) version 1.3.7-S7.0
+/untrust - GriefPrevention (griefprevention) version 4.3.0
+/untrustall - GriefPrevention (griefprevention) version 4.3.0
+/up - WorldEdit (worldedit) version 6.1.8
+/uptime - Nucleus (nucleus) version 1.3.7-S7.0
+/ut - GriefPrevention (griefprevention) version 4.3.0
+/uta - GriefPrevention (griefprevention) version 4.3.0
+/v - Nucleus (nucleus) version 1.3.7-S7.0
+/vanish - Nucleus (nucleus) version 1.3.7-S7.0
+/vbal - EconomyLite (economylite) version 2.13.0
+/vbalance - EconomyLite (economylite) version 2.13.0
+/vc - VirtualChest (virtualchest) version 1.0.0-alpha
+/vchest - VirtualChest (virtualchest) version 1.0.0-alpha
+/veco - EconomyLite (economylite) version 2.13.0
+/vecon - EconomyLite (economylite) version 2.13.0
+/veconomy - EconomyLite (economylite) version 2.13.0
+/veinminer - Vein Miner (veinminer) version 0.38.1
+/virtualchest - VirtualChest (virtualchest) version 1.0.0-alpha
+/voice - Nucleus (nucleus) version 1.3.7-S7.0
+/vpay - EconomyLite (economylite) version 2.13.0
+/vshop - VillagerShops (vshop) version 1.8.1
+/w - ProjectWorlds (pjw) version 0.12.2
+/warn - Nucleus (nucleus) version 1.3.7-S7.0
+/warning - Nucleus (nucleus) version 1.3.7-S7.0
+/warnings - Nucleus (nucleus) version 1.3.7-S7.0
+/warp - Nucleus (nucleus) version 1.3.7-S7.0
+/warps - Nucleus (nucleus) version 1.3.7-S7.0
+/warpset - Nucleus (nucleus) version 1.3.7-S7.0
+/wb - Nucleus (nucleus) version 1.3.7-S7.0
+/we - WorldEdit (worldedit) version 6.1.8
+/weather - Nucleus (nucleus) version 1.3.7-S7.0
+/whereami - Nucleus (nucleus) version 1.3.7-S7.0
+/whisper - Nucleus (nucleus) version 1.3.7-S7.0
+/whitelist - Minecraft (minecraft) version 1.12.2
+/workbench - Nucleus (nucleus) version 1.3.7-S7.0
+/world - ProjectWorlds (pjw) version 0.12.2
+/worldborder - Minecraft (minecraft) version 1.12.2
+/worldedit - WorldEdit (worldedit) version 6.1.8
+/worlds - Nucleus (nucleus) version 1.3.7-S7.0
+/worth - Nucleus (nucleus) version 1.3.7-S7.0
+/xp - Minecraft (minecraft) version 1.12.2
+/xudebug - Extra Utilities 2 (extrautils2) version 1.0
+/zapblock - Nucleus (nucleus) version 1.3.7-S7.0
+------------
+Namespaced commands
+------------
+/appliedenergistics2:ae2 - Applied Energistics 2 (appliedenergistics2) version rv5-stable-11
+/buildcraftlib:buildcraft - BuildCraft Lib (buildcraftlib) version 7.99.16
+/carrotshop:c - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrothelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrothide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotshop - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotshophide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotshopreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotshopserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotshopwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:carrotwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:ch - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:chide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:cr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:creport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:cs - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:cshophelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:cshopwiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:csr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:csreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:hideshopchat - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:s - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:serverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:sh - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shop - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shophelp - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shophide - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shopreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:shopserverreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:sr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:sreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:ssr - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:ssreport - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/carrotshop:swiki - CarrotShop (carrotshop) version 1.17-S7.0-MC1.12.2
+/catclearlag:clwhitelist - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:cwl - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:forcegarbagecollection - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:forcegc - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:laggychunks - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:lc - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:re - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:uc - CatClearLag (catclearlag) version 0.8.3
+/catclearlag:unloadchunks - CatClearLag (catclearlag) version 0.8.3
+/cofhcore:cofh - CoFH Core (cofhcore) version 4.5.2
+/cofhworld:cofhworld - CoFH World (cofhworld) version 1.2.0
+/customnpcs:noppes - CustomNPCs (customnpcs) version 1.12
+/dailyrewards:daily - DailyRewards (dailyrewards) version unknown
+/dailyrewards:dailyrewards - DailyRewards (dailyrewards) version unknown
+/dailyrewards:dr - DailyRewards (dailyrewards) version unknown
+/de_yottaflops_easyscoreboard:easyscoreboard - EasyScoreboards (de_yottaflops_easyscoreboard) version 2.3
+/de_yottaflops_easyscoreboard:esb - EasyScoreboards (de_yottaflops_easyscoreboard) version 2.3
+/economylite:bal - EconomyLite (economylite) version 2.13.0
+/economylite:balance - EconomyLite (economylite) version 2.13.0
+/economylite:baltop - EconomyLite (economylite) version 2.13.0
+/economylite:cur - EconomyLite (economylite) version 2.13.0
+/economylite:currency - EconomyLite (economylite) version 2.13.0
+/economylite:eco - EconomyLite (economylite) version 2.13.0
+/economylite:econ - EconomyLite (economylite) version 2.13.0
+/economylite:economy - EconomyLite (economylite) version 2.13.0
+/economylite:migrate - EconomyLite (economylite) version 2.13.0
+/economylite:money - EconomyLite (economylite) version 2.13.0
+/economylite:pay - EconomyLite (economylite) version 2.13.0
+/economylite:payv - EconomyLite (economylite) version 2.13.0
+/economylite:payvirtual - EconomyLite (economylite) version 2.13.0
+/economylite:vbal - EconomyLite (economylite) version 2.13.0
+/economylite:vbalance - EconomyLite (economylite) version 2.13.0
+/economylite:veco - EconomyLite (economylite) version 2.13.0
+/economylite:vecon - EconomyLite (economylite) version 2.13.0
+/economylite:veconomy - EconomyLite (economylite) version 2.13.0
+/economylite:vpay - EconomyLite (economylite) version 2.13.0
+/endercore:reloadserverconfigs - EnderCore (endercore) version 1.12.2-0.5.30
+/endercore:scoreboardinfo - EnderCore (endercore) version 1.12.2-0.5.30
+/extrautils2:xudebug - Extra Utilities 2 (extrautils2) version 1.0
+/flexiblelogin:changepassword - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:changepw - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:email - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:flexiblelogin - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:forgot - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:forgotpassword - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:log - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:login - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:logout - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:reg - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:register - FlexibleLogin (flexiblelogin) version 0.16.8
+/flexiblelogin:setemail - FlexibleLogin (flexiblelogin) version 0.16.8
+/forestry:for - Forestry (forestry) version 5.8.0.295
+/forestry:forestry - Forestry (forestry) version 5.8.0.295
+/forge:forge - Minecraft Forge (forge) version 14.23.3.2655
+/griefprevention:abandonallclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:abandonclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:abandontopclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:abandontoplevelclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ac - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:acb - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:accesstrust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:adjustbonusclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:adminclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:at - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:atc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:basicclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:bc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:buyclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:buyclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cb - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cf - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cfd - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cfg - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cfp - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cfr - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimbank - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimbook - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimbuy - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimclear - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimfarewell - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimflag - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimflagdebug - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimflaggroup - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimflagplayer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimflagreset - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimgreeting - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claiminfo - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimlist - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimname - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimoption - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimoptiongroup - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimoptionplayer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimpermissiongroup - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimpermissionplayer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimsell - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimsellblocks - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimsetspawn - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimsinfo - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimslist - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimspawn - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimsubdivide - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:claimtransfer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:co - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cog - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:containertrust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cop - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cpg - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cpp - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ct - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cuboid - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:cuboidclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:dac - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:dc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:deletealladminclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:deleteallclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:deleteclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:deletetopclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:dtc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:givepet - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:gpdebug - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:gpreload - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:gpversion - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ic - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ignore - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ignoreclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ignoredlist - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ignoredplayerlist - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ignoreplayer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:inherit - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:inheritpermissions - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:managertrust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:mt - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:permissiontrust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:playerinfo - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:pt - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:restorenature - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:restorenatureaggressive - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:restorenaturefill - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:rn - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:rna - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:rnf - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:sc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:scb - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:sellclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:separate - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:setaccruedclaimblocks - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:softmute - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:subdivideclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:t - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ta - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:tb - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:tc - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:townbank - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:townchat - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:townclaims - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:towninfo - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:townsinfo - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:towntag - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:transferclaim - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:trust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:trustall - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:trustlist - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:tt - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:unignore - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:unignoreplayer - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:unlockdrops - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:unseparate - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:untrust - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:untrustall - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:ut - GriefPrevention (griefprevention) version 4.3.0
+/griefprevention:uta - GriefPrevention (griefprevention) version 4.3.0
+/holograms:holograms - Holograms (holograms) version 3.1
+/ic2:ic2 - IndustrialCraft 2 (ic2) version 2.8.83-ex112
+/immersiveengineering:ie - Immersive Engineering (immersiveengineering) version 0.12-82
+/karoglansigneditor:karoglansigneditor - KaroglanSignEditor (karoglansigneditor) version 2.7
+/karoglansigneditor:kse - KaroglanSignEditor (karoglansigneditor) version 2.7
+/karoglansigneditor:se - KaroglanSignEditor (karoglansigneditor) version 2.7
+/karoglansigneditor:sign - KaroglanSignEditor (karoglansigneditor) version 2.7
+/karoglansigneditor:signeditor - KaroglanSignEditor (karoglansigneditor) version 2.7
+/laggoggles:laggoggles - LagGoggles (laggoggles) version SPONGEFORGE-1.12.2-4.1
+/langswitch:language - LangSwitch (langswitch) version 1.1.2
+/lottery:lot - Lottery (lottery) version 2.0.2
+/lottery:lottery - Lottery (lottery) version 2.0.2
+/luckperms:lp - LuckPerms (luckperms) version 4.0.143
+/luckperms:luckperms - LuckPerms (luckperms) version 4.0.143
+/luckperms:perm - LuckPerms (luckperms) version 4.0.143
+/luckperms:permission - LuckPerms (luckperms) version 4.0.143
+/luckperms:permissions - LuckPerms (luckperms) version 4.0.143
+/luckperms:perms - LuckPerms (luckperms) version 4.0.143
+/mekanism:mek - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/mekanism:mekanism - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/mekanism:mk - Mekanism (mekanism) version 1.12.2-9.4.11.346
+/minecraft:advancement - Minecraft (minecraft) version 1.12.2
+/minecraft:ban-ip - Minecraft (minecraft) version 1.12.2
+/minecraft:banlist - Minecraft (minecraft) version 1.12.2
+/minecraft:blockdata - Minecraft (minecraft) version 1.12.2
+/minecraft:clone - Minecraft (minecraft) version 1.12.2
+/minecraft:debug - Minecraft (minecraft) version 1.12.2
+/minecraft:defaultgamemode - Minecraft (minecraft) version 1.12.2
+/minecraft:deop - Minecraft (minecraft) version 1.12.2
+/minecraft:difficulty - Minecraft (minecraft) version 1.12.2
+/minecraft:effect - Minecraft (minecraft) version 1.12.2
+/minecraft:entitydata - Minecraft (minecraft) version 1.12.2
+/minecraft:execute - Minecraft (minecraft) version 1.12.2
+/minecraft:fill - Minecraft (minecraft) version 1.12.2
+/minecraft:function - Minecraft (minecraft) version 1.12.2
+/minecraft:gamerule - Minecraft (minecraft) version 1.12.2
+/minecraft:give - Minecraft (minecraft) version 1.12.2
+/minecraft:locate - Minecraft (minecraft) version 1.12.2
+/minecraft:op - Minecraft (minecraft) version 1.12.2
+/minecraft:pardon - Minecraft (minecraft) version 1.12.2
+/minecraft:pardon-ip - Minecraft (minecraft) version 1.12.2
+/minecraft:particle - Minecraft (minecraft) version 1.12.2
+/minecraft:playsound - Minecraft (minecraft) version 1.12.2
+/minecraft:recipe - Minecraft (minecraft) version 1.12.2
+/minecraft:reload - Minecraft (minecraft) version 1.12.2
+/minecraft:replaceitem - Minecraft (minecraft) version 1.12.2
+/minecraft:save-all - Minecraft (minecraft) version 1.12.2
+/minecraft:save-off - Minecraft (minecraft) version 1.12.2
+/minecraft:save-on - Minecraft (minecraft) version 1.12.2
+/minecraft:say - Minecraft (minecraft) version 1.12.2
+/minecraft:scoreboard - Minecraft (minecraft) version 1.12.2
+/minecraft:seed - Minecraft (minecraft) version 1.12.2
+/minecraft:setblock - Minecraft (minecraft) version 1.12.2
+/minecraft:setidletimeout - Minecraft (minecraft) version 1.12.2
+/minecraft:setworldspawn - Minecraft (minecraft) version 1.12.2
+/minecraft:spawnpoint - Minecraft (minecraft) version 1.12.2
+/minecraft:spreadplayers - Minecraft (minecraft) version 1.12.2
+/minecraft:stats - Minecraft (minecraft) version 1.12.2
+/minecraft:stopsound - Minecraft (minecraft) version 1.12.2
+/minecraft:summon - Minecraft (minecraft) version 1.12.2
+/minecraft:tellraw - Minecraft (minecraft) version 1.12.2
+/minecraft:testfor - Minecraft (minecraft) version 1.12.2
+/minecraft:testforblock - Minecraft (minecraft) version 1.12.2
+/minecraft:testforblocks - Minecraft (minecraft) version 1.12.2
+/minecraft:title - Minecraft (minecraft) version 1.12.2
+/minecraft:toggledownfall - Minecraft (minecraft) version 1.12.2
+/minecraft:trigger - Minecraft (minecraft) version 1.12.2
+/minecraft:whitelist - Minecraft (minecraft) version 1.12.2
+/minecraft:worldborder - Minecraft (minecraft) version 1.12.2
+/minecraft:xp - Minecraft (minecraft) version 1.12.2
+/mmcreboot:reboot - MMCReboot (mmcreboot) version 2.2.0
+/mmcreboot:restart - MMCReboot (mmcreboot) version 2.2.0
+/newhonor:honor - New Honor (newhonor) version 1.7.0
+/newhonor:honour - New Honor (newhonor) version 1.7.0
+/nucleus:a - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:action - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:addnote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:addwarning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:adventure - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:afk - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:afkrefresh - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:anvil - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:away - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:back - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:bc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:bcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:blockinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:blockzap - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:broadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:burn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:buy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:call - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkjail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkjailed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkmuted - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checknotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:checkwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ci - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clear - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clearinv - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clearinvent - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clearinventory - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clearnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:clearwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:commandspy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:coords - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:craft - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:creative - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:deletehome - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:deletehomeother - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:deletenick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:deletenote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:deletewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delhome - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delhomeother - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delnick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delnickname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delnote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:delwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:eat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ec - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:echest - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:einfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:email - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:enchant - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:enchantingtable - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:enchanttable - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:enderchest - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:entityinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:etable - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:exp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:experience - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:feed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:firstjoinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:firstkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:firstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:fly - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:freeze - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:freezeplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gamemode - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gamerules - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:getfromip - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:getloc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:getlocation - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:getpos - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:globalmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gm - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gma - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gmc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gms - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gmsp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:gmt - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:god - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:hat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:head - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:heal - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:helpop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:home - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:homeother - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:homes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:homeset - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ignite - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ignore - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:info - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:invsee - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:invuln - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:invulnerability - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:itembuy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:itemdb - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:iteminfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:itemname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:itemsell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:itemsellall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:j - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:jail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:jails - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:jmp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:joinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:jump - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kickall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kill - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:killentity - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:killweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kits - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:kittycannon - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:lightning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:list - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:listhomes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:listplayers - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:lockweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:lookup - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:lore - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ls - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:m - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:mail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:me - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:mend - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:message - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:messagetoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:mobspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:more - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:motd - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:msg - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:msgtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:mtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:mute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nafk - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nafkrefresh - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nameban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:namepardon - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nameunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nanvil - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nback - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nblockinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nblockzap - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckjail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckjailed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckmuted - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nchecknotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncheckwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nclear - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nclearnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nclearwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ncommandspy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ndelnick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nenchant - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nenchantingtable - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nenderchest - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nentityinfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nexp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nfeed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nfirstjoinkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nfly - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nfreezeplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngamemode - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngetfromip - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngetpos - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nglobalmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngma - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngmc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngms - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngmsp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngmt - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ngod - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nhat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nheal - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nhelpop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nhome - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nickname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nignite - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nignore - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ninfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ninvsee - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nitembuy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:niteminfo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nitemname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nitemsell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nitemsellall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:njail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:njails - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:njump - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkickall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkill - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkillentity - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nkittycannon - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nlightning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nlist - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nlockweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nlore - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nme - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmessage - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmore - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmotd - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmsgtoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nnameban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nnameunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nnick - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nnote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:note - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:notes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nping - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nplainbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:npowertool - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nrealname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nremovenote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nremovewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nrepair - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nreply - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nrocket - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nrtp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nrules - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nseen - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nserverlist - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nserverstat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nservertime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsetfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsetspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsetworth - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nshowitemattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nskull - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsocialspy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nspawnmob - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nspeed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nstaffchat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nstop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsudo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nsuicide - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nteleportnative - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntellplain - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntempban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nthru - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpa - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpaall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpahere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntpdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntphere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntppos - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntptoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ntrash - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nucleus - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nucleusworld - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nunban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nunstuck - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nvanish - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nvoice - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nwarn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nwarp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nweather - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nworkbench - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nworld - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:nworth - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:pardon - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:pbc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:pbcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ping - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:plainbroadcast - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:plaintell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:position - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:powertool - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:pt - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:ptell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:r - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:randomteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:realname - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:realtime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:removeallnotes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:removeallwarnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:removenote - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:removewarning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:repair - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:reply - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:return - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:rocket - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:rteleport - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:rtp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:rules - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sc - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:seen - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:seenplayer - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sellall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:serverlist - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:serverstat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:servertime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:setfirstspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sethome - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:setitemworth - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:setspawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:settime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:setwarp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:setworth - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:shock - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:showattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:showitemattributes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:skull - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sl - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:smite - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:socialspy - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:spawn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:spawnentity - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:spawnmob - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:speed - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:stack - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:staffchat - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:starterkit - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:stop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:strike - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:sudo - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:suicide - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:survival - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:t - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleport - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleportaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleportask - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleportaskhere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleportdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:teleportnative - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tell - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tellplain - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tempban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:thor - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:through - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:thru - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:time - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:timeset - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:togglejail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:top - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tosurface - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:totop - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpa - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpaall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpaccept - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpahere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpallhere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpask - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpaskall - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpaskhere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpdeny - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tph - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tphere - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpnative - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpno - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tppos - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tptoggle - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:tpyes - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:trash - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:unban - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:unjail - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:unmute - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:unstuck - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:uptime - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:v - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:vanish - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:voice - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:w - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warn - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warning - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warnings - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warps - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:warpset - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:wb - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:weather - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:whereami - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:whisper - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:workbench - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:worlds - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:worth - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:xp - Nucleus (nucleus) version 1.3.7-S7.0
+/nucleus:zapblock - Nucleus (nucleus) version 1.3.7-S7.0
+/omlib:omchangeowner - OMLib (omlib) version 3.0.0-143
+/omlib:omdebug - OMLib (omlib) version 3.0.0-143
+/omlib:omshareowner - OMLib (omlib) version 3.0.0-143
+/pixelautomessages:pam - PixelAutoMessages (pixelautomessages) version 1.0.3
+/pjc:helpme - ProjectCore (pjc) version 0.2.2
+/pjc:hm - ProjectCore (pjc) version 0.2.2
+/pjc:pjc - ProjectCore (pjc) version 0.2.2
+/pjw:w - ProjectWorlds (pjw) version 0.12.2
+/pjw:world - ProjectWorlds (pjw) version 0.12.2
+/placeholderapi:papi - PlaceholderAPI (placeholderapi) version 4.4
+/placeholderapi:placeholderapi - PlaceholderAPI (placeholderapi) version 4.4
+/rftools:rftcfg - RFTools (rftools) version 7.50
+/rftools:rftdb - RFTools (rftools) version 7.50
+/rftools:rftshape - RFTools (rftools) version 7.50
+/rftools:rfttp - RFTools (rftools) version 7.50
+/rftoolsdim:rftdim - RFTools Dimensions (rftoolsdim) version 5.60
+/serverlistplus:s++ - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:serverlist - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:serverlist+ - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:serverlistplus - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:serverping - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:serverping+ - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:sl+ - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:slp - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:slus - ServerListPlus (serverlistplus) version 3.4.7
+/serverlistplus:spp - ServerListPlus (serverlistplus) version 3.4.7
+/sponge:? - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:callback - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:help - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:page - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:pagination - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:sp - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/sponge:sponge - SpongeForge (sponge) version 1.12.2-2655-7.1.0-BETA-3105
+/stackban:sb - StackBan for SpongeAPI 7.x (stackban) version 0.3.0
+/stackban:sban - StackBan for SpongeAPI 7.x (stackban) version 0.3.0
+/veinminer:veinminer - Vein Miner (veinminer) version 0.38.1
+/virtualchest:m-e - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:m-e2 - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:menu-example - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:menu-example2 - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:vc - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:vchest - VirtualChest (virtualchest) version 1.0.0-alpha
+/virtualchest:virtualchest - VirtualChest (virtualchest) version 1.0.0-alpha
+/vshop:vshop - VillagerShops (vshop) version 1.8.1
+/worldedit:, - WorldEdit (worldedit) version 6.1.8
+/worldedit:.s - WorldEdit (worldedit) version 6.1.8
+/worldedit:/ - WorldEdit (worldedit) version 6.1.8
+/worldedit:/calc - WorldEdit (worldedit) version 6.1.8
+/worldedit:/calculate - WorldEdit (worldedit) version 6.1.8
+/worldedit:/center - WorldEdit (worldedit) version 6.1.8
+/worldedit:/chunk - WorldEdit (worldedit) version 6.1.8
+/worldedit:/clearhistory - WorldEdit (worldedit) version 6.1.8
+/worldedit:/contract - WorldEdit (worldedit) version 6.1.8
+/worldedit:/copy - WorldEdit (worldedit) version 6.1.8
+/worldedit:/count - WorldEdit (worldedit) version 6.1.8
+/worldedit:/curve - WorldEdit (worldedit) version 6.1.8
+/worldedit:/cut - WorldEdit (worldedit) version 6.1.8
+/worldedit:/cyl - WorldEdit (worldedit) version 6.1.8
+/worldedit:/deform - WorldEdit (worldedit) version 6.1.8
+/worldedit:/desel - WorldEdit (worldedit) version 6.1.8
+/worldedit:/deselect - WorldEdit (worldedit) version 6.1.8
+/worldedit:/distr - WorldEdit (worldedit) version 6.1.8
+/worldedit:/drain - WorldEdit (worldedit) version 6.1.8
+/worldedit:/eval - WorldEdit (worldedit) version 6.1.8
+/worldedit:/evaluate - WorldEdit (worldedit) version 6.1.8
+/worldedit:/ex - WorldEdit (worldedit) version 6.1.8
+/worldedit:/expand - WorldEdit (worldedit) version 6.1.8
+/worldedit:/ext - WorldEdit (worldedit) version 6.1.8
+/worldedit:/extinguish - WorldEdit (worldedit) version 6.1.8
+/worldedit:/faces - WorldEdit (worldedit) version 6.1.8
+/worldedit:/fast - WorldEdit (worldedit) version 6.1.8
+/worldedit:/fill - WorldEdit (worldedit) version 6.1.8
+/worldedit:/fillr - WorldEdit (worldedit) version 6.1.8
+/worldedit:/fixlava - WorldEdit (worldedit) version 6.1.8
+/worldedit:/fixwater - WorldEdit (worldedit) version 6.1.8
+/worldedit:/flip - WorldEdit (worldedit) version 6.1.8
+/worldedit:/flora - WorldEdit (worldedit) version 6.1.8
+/worldedit:/forest - WorldEdit (worldedit) version 6.1.8
+/worldedit:/g - WorldEdit (worldedit) version 6.1.8
+/worldedit:/gb - WorldEdit (worldedit) version 6.1.8
+/worldedit:/gen - WorldEdit (worldedit) version 6.1.8
+/worldedit:/genbiome - WorldEdit (worldedit) version 6.1.8
+/worldedit:/generate - WorldEdit (worldedit) version 6.1.8
+/worldedit:/generatebiome - WorldEdit (worldedit) version 6.1.8
+/worldedit:/gmask - WorldEdit (worldedit) version 6.1.8
+/worldedit:/green - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hcyl - WorldEdit (worldedit) version 6.1.8
+/worldedit:/help - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hollow - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hpos1 - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hpos2 - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hpyramid - WorldEdit (worldedit) version 6.1.8
+/worldedit:/hsphere - WorldEdit (worldedit) version 6.1.8
+/worldedit:/inset - WorldEdit (worldedit) version 6.1.8
+/worldedit:/l - WorldEdit (worldedit) version 6.1.8
+/worldedit:/limit - WorldEdit (worldedit) version 6.1.8
+/worldedit:/line - WorldEdit (worldedit) version 6.1.8
+/worldedit:/load - WorldEdit (worldedit) version 6.1.8
+/worldedit:/lrbuild - WorldEdit (worldedit) version 6.1.8
+/worldedit:/middle - WorldEdit (worldedit) version 6.1.8
+/worldedit:/move - WorldEdit (worldedit) version 6.1.8
+/worldedit:/naturalize - WorldEdit (worldedit) version 6.1.8
+/worldedit:/outline - WorldEdit (worldedit) version 6.1.8
+/worldedit:/outset - WorldEdit (worldedit) version 6.1.8
+/worldedit:/overlay - WorldEdit (worldedit) version 6.1.8
+/worldedit:/paste - WorldEdit (worldedit) version 6.1.8
+/worldedit:/pos1 - WorldEdit (worldedit) version 6.1.8
+/worldedit:/pos2 - WorldEdit (worldedit) version 6.1.8
+/worldedit:/pyramid - WorldEdit (worldedit) version 6.1.8
+/worldedit:/re - WorldEdit (worldedit) version 6.1.8
+/worldedit:/redo - WorldEdit (worldedit) version 6.1.8
+/worldedit:/regen - WorldEdit (worldedit) version 6.1.8
+/worldedit:/removeabove - WorldEdit (worldedit) version 6.1.8
+/worldedit:/removebelow - WorldEdit (worldedit) version 6.1.8
+/worldedit:/removenear - WorldEdit (worldedit) version 6.1.8
+/worldedit:/rep - WorldEdit (worldedit) version 6.1.8
+/worldedit:/replace - WorldEdit (worldedit) version 6.1.8
+/worldedit:/replacenear - WorldEdit (worldedit) version 6.1.8
+/worldedit:/restore - WorldEdit (worldedit) version 6.1.8
+/worldedit:/rotate - WorldEdit (worldedit) version 6.1.8
+/worldedit:/save - WorldEdit (worldedit) version 6.1.8
+/worldedit:/schem - WorldEdit (worldedit) version 6.1.8
+/worldedit:/schematic - WorldEdit (worldedit) version 6.1.8
+/worldedit:/search - WorldEdit (worldedit) version 6.1.8
+/worldedit:/searchitem - WorldEdit (worldedit) version 6.1.8
+/worldedit:/sel - WorldEdit (worldedit) version 6.1.8
+/worldedit:/set - WorldEdit (worldedit) version 6.1.8
+/worldedit:/setbiome - WorldEdit (worldedit) version 6.1.8
+/worldedit:/shift - WorldEdit (worldedit) version 6.1.8
+/worldedit:/size - WorldEdit (worldedit) version 6.1.8
+/worldedit:/smooth - WorldEdit (worldedit) version 6.1.8
+/worldedit:/snow - WorldEdit (worldedit) version 6.1.8
+/worldedit:/solve - WorldEdit (worldedit) version 6.1.8
+/worldedit:/sphere - WorldEdit (worldedit) version 6.1.8
+/worldedit:/stack - WorldEdit (worldedit) version 6.1.8
+/worldedit:/thaw - WorldEdit (worldedit) version 6.1.8
+/worldedit:/toggleplace - WorldEdit (worldedit) version 6.1.8
+/worldedit:/undo - WorldEdit (worldedit) version 6.1.8
+/worldedit:/walls - WorldEdit (worldedit) version 6.1.8
+/worldedit:/wand - WorldEdit (worldedit) version 6.1.8
+/worldedit:; - WorldEdit (worldedit) version 6.1.8
+/worldedit:asc - WorldEdit (worldedit) version 6.1.8
+/worldedit:ascend - WorldEdit (worldedit) version 6.1.8
+/worldedit:biomeinfo - WorldEdit (worldedit) version 6.1.8
+/worldedit:biomelist - WorldEdit (worldedit) version 6.1.8
+/worldedit:biomels - WorldEdit (worldedit) version 6.1.8
+/worldedit:br - WorldEdit (worldedit) version 6.1.8
+/worldedit:brush - WorldEdit (worldedit) version 6.1.8
+/worldedit:butcher - WorldEdit (worldedit) version 6.1.8
+/worldedit:ceil - WorldEdit (worldedit) version 6.1.8
+/worldedit:chunkinfo - WorldEdit (worldedit) version 6.1.8
+/worldedit:clearclipboard - WorldEdit (worldedit) version 6.1.8
+/worldedit:clearhistory - WorldEdit (worldedit) version 6.1.8
+/worldedit:cs - WorldEdit (worldedit) version 6.1.8
+/worldedit:cycler - WorldEdit (worldedit) version 6.1.8
+/worldedit:delchunks - WorldEdit (worldedit) version 6.1.8
+/worldedit:deltree - WorldEdit (worldedit) version 6.1.8
+/worldedit:desc - WorldEdit (worldedit) version 6.1.8
+/worldedit:descend - WorldEdit (worldedit) version 6.1.8
+/worldedit:ex - WorldEdit (worldedit) version 6.1.8
+/worldedit:ext - WorldEdit (worldedit) version 6.1.8
+/worldedit:extinguish - WorldEdit (worldedit) version 6.1.8
+/worldedit:farwand - WorldEdit (worldedit) version 6.1.8
+/worldedit:fixlava - WorldEdit (worldedit) version 6.1.8
+/worldedit:fixwater - WorldEdit (worldedit) version 6.1.8
+/worldedit:flood - WorldEdit (worldedit) version 6.1.8
+/worldedit:floodfill - WorldEdit (worldedit) version 6.1.8
+/worldedit:forestgen - WorldEdit (worldedit) version 6.1.8
+/worldedit:gmask - WorldEdit (worldedit) version 6.1.8
+/worldedit:green - WorldEdit (worldedit) version 6.1.8
+/worldedit:j - WorldEdit (worldedit) version 6.1.8
+/worldedit:jumpto - WorldEdit (worldedit) version 6.1.8
+/worldedit:listchunks - WorldEdit (worldedit) version 6.1.8
+/worldedit:lrbuild - WorldEdit (worldedit) version 6.1.8
+/worldedit:mask - WorldEdit (worldedit) version 6.1.8
+/worldedit:mat - WorldEdit (worldedit) version 6.1.8
+/worldedit:material - WorldEdit (worldedit) version 6.1.8
+/worldedit:none - WorldEdit (worldedit) version 6.1.8
+/worldedit:pickaxe - WorldEdit (worldedit) version 6.1.8
+/worldedit:pumpkins - WorldEdit (worldedit) version 6.1.8
+/worldedit:range - WorldEdit (worldedit) version 6.1.8
+/worldedit:redo - WorldEdit (worldedit) version 6.1.8
+/worldedit:rem - WorldEdit (worldedit) version 6.1.8
+/worldedit:rement - WorldEdit (worldedit) version 6.1.8
+/worldedit:remove - WorldEdit (worldedit) version 6.1.8
+/worldedit:removeabove - WorldEdit (worldedit) version 6.1.8
+/worldedit:removebelow - WorldEdit (worldedit) version 6.1.8
+/worldedit:removenear - WorldEdit (worldedit) version 6.1.8
+/worldedit:repl - WorldEdit (worldedit) version 6.1.8
+/worldedit:replacenear - WorldEdit (worldedit) version 6.1.8
+/worldedit:restore - WorldEdit (worldedit) version 6.1.8
+/worldedit:schem - WorldEdit (worldedit) version 6.1.8
+/worldedit:schematic - WorldEdit (worldedit) version 6.1.8
+/worldedit:searchitem - WorldEdit (worldedit) version 6.1.8
+/worldedit:size - WorldEdit (worldedit) version 6.1.8
+/worldedit:snap - WorldEdit (worldedit) version 6.1.8
+/worldedit:snapshot - WorldEdit (worldedit) version 6.1.8
+/worldedit:snow - WorldEdit (worldedit) version 6.1.8
+/worldedit:sp - WorldEdit (worldedit) version 6.1.8
+/worldedit:superpickaxe - WorldEdit (worldedit) version 6.1.8
+/worldedit:thaw - WorldEdit (worldedit) version 6.1.8
+/worldedit:toggleeditwand - WorldEdit (worldedit) version 6.1.8
+/worldedit:toggleplace - WorldEdit (worldedit) version 6.1.8
+/worldedit:tool - WorldEdit (worldedit) version 6.1.8
+/worldedit:tree - WorldEdit (worldedit) version 6.1.8
+/worldedit:undo - WorldEdit (worldedit) version 6.1.8
+/worldedit:up - WorldEdit (worldedit) version 6.1.8
+/worldedit:we - WorldEdit (worldedit) version 6.1.8
+/worldedit:worldedit - WorldEdit (worldedit) version 6.1.8
+------------
+Nucleus: Enabled Modules
+------------
+admin
+afk
+back
+ban
+chat
+chat-logger
+command-logger
+command-spy
+connection
+connection-messages
+core
+crafting-gui
+death-message
+environment
+fly
+freeze-subject
+fun
+home
+ignore
+info
+inventory
+invulnerability
+item
+jail
+jump
+kick
+kit
+mail
+message
+misc
+mob
+mute
+nameban
+nickname
+note
+playerinfo
+powertool
+protection
+rtp
+rules
+server-list
+server-shop
+sign
+spawn
+staff-chat
+teleport
+vanish
+warn
+warp
+world
+------------
+Nucleus: Disabled Modules
+------------
+geo-ip
