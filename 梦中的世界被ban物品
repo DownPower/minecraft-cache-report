@@ -1,0 +1,46 @@
+                                      以下ban（禁止）所有权限：包括制造（create）
+                                                    最新ban列表
+
+
+
+appliedenergistics2:spatial_io_port             空间IO端口
+appliedenergistics2:charged_staff               充能手杖
+appliedenergistics2:entropy_manipulator？       变机械臂
+ic2:te:40                                       地形转换机
+ic2:te:60                                       采矿机（高级）
+ic2:te:57
+ic2:te:82                                       区块加载机
+cfm:item_package_signed
+ic2:te:2                                        核弹
+ic2:dynamite_sticky                             粘性炸药（炸药）
+ic2:dynamite
+appliedenergistics2:spatial_pylon               空间塔                                      
+botania:enderhand                               末影之手
+appliedenergistics2:part:300                    破坏面板
+appliedenergistics2:matter_cannon               物质炮
+mekanism:obsidiantnt                            黑曜石tnt
+extrautils2:chunkloader                          区块加载之杖
+各种卡服的采矿机：除了环境科技的以外
+RFtools:spawner                                   刷怪笼
+extrautils2:quarry                                 量子采石场
+extrautils2:quarryproxy                         量子采石场具现设备
+2018-06-23新增
+enderio:block_powered_spawner                   电动刷怪笼
+mek量子传送装置（待争议）
+以上设备会严重卡服或报错
+ 我记得还有些忘记写了，漏了提醒下@DownPower_bi
+ 
+
+
+                                        以下物品没有ban（禁止）制造权限，仅仅只能用于合成（create）途径
+                            ██████████████████████████████
+             唯一bug！███请合成之后不要放在手上，会被服务器吞掉的，放背包里面就行了 ███
+                           ███████████████████████████████
+
+
+
+ic2:mining_laser                                采矿镭射枪
+ic2:tool_box                                    工业工具箱（防辐射盒）
+
+                                                                                                          编辑于2018-06-23
+                                                                                                          DownPower_bi
