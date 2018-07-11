@@ -26,6 +26,7 @@ extrautils2:quarry                                 量子采石场
 extrautils2:quarryproxy                         量子采石场具现设备
 2018-06-23新增
 enderio:block_powered_spawner                   电动刷怪笼
+mekanism:machineblock                           数字型采矿机
 mek量子传送装置（待争议）
 extrautils2：user                               使用者
 以上设备会严重卡服或报错
