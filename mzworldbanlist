@@ -30,7 +30,8 @@ mekanism:machineblock                           数字型采矿机
 mek量子传送装置（待争议）
 extrautils2：user                               使用者
 林业电动引擎 ，无限刷能源
-extrautils2:miner                               挖掘器
+extrautils2：矿工挖掘器
+immersiveengineering:toolbox                     工程师工具箱
 以上设备会严重卡服或报错
  我记得还有些忘记写了，漏了提醒下@DownPower_bi
  
